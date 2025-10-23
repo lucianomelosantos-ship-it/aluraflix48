@@ -1,0 +1,23 @@
+body{
+background-color: aquamarine
+color(srgb rgb(14, 13, 13) green blue);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+    h1{
+        color: aquamarine;
+font-size: 40px;
+    }
+    p{
+    font-size: 25px;
+    }
+    header{
+border-bottom: (crimson);
+margin:2px;
+padding:10px;
+color: (red);
+
+
+
+
+    }
