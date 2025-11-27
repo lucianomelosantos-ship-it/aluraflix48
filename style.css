@@ -45,7 +45,7 @@ height: 8px;
 }
 
 .categoria-video::-webkit-scrollbar-thumb {
-background-color: rgb((100,232,237));
+background-color:rgb(100,232,237);
 border-radius: 4px;
 }
 .categoria {
